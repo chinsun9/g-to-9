@@ -1,0 +1,20 @@
+{
+  "name": "g-to-9",
+  "version": "1.0.0",
+  "description": "replace 'g' to '9'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinsun9/g-to-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinsun9/g-to-9/issues"
+  },
+  "homepage": "https://github.com/chinsun9/g-to-9#readme"
+}
