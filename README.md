@@ -5,13 +5,13 @@
 ## Install
 
 ```sh terminal
-npm install @chinsun9/g-to-9
+npm install g-to-9
 ```
 
 ## Usage
 
 ```js example
-import { gto9 } from "@chinsun9/g-to-9";
+import { gto9 } from "g-to-9";
 
 console.log(gto9("chinsung"));
 // output : 'chinsun9'
