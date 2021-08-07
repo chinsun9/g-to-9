@@ -1,3 +1,3 @@
 export const replace = (str: string): string => {
-  return 'chinsun9';
+  return str.replace(/g/g, '9');
 };
