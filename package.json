@@ -5,16 +5,19 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "start": "nodemon src/cli.ts",
-    "test": "jest --watch"
+    "test": "jest --watch",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chinsun9/g-to-9.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "replace",
+    "replaceAll"
+  ],
+  "author": "chinsun9 <chin_sung@naver.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chinsun9/g-to-9/issues"
   },

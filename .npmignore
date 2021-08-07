@@ -1,2 +1,5 @@
 src
 tsconfig.json
+.eslintrc.json
+.vscode
+babel.config.js
