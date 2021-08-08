@@ -1,6 +1,6 @@
 {
   "name": "g-to-9",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "replace 'g' to '9'",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
